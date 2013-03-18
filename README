@@ -10,7 +10,7 @@ Usage is simple:
 FEATURES:
 
 * Supports multiple log levels - Debug, Info, Warning, Error, Trace
-* Logging can be compiled in our out of code with one flag
+* Logging can be compiled in our out of code with one flag - this is useful when security or performance are a concern.
 * Supports multiple formats - line numbers, file, etc. 
 
 
