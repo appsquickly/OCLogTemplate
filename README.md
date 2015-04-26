@@ -7,9 +7,17 @@ A logging framework for Objective-C projects. Based on Brenwill workshop's Flexi
 * Performance: Logging can be compiled in our out of code with one flag. 
 * Supports multiple formats - line numbers, file, etc. 
 
-#USAGE IS SIMPLE
+#INSTALLING
 
-* Just include OCLogTemplate.h. Can be installed via CocoaPods too, for use as a transitive dependency in libraries, etc: `pod 'OCLogTemplate'`. 
+Just include OCLogTemplate.h. 
+
+Can be installed via CocoaPods too, for use as a transitive dependency in libraries, etc. 
+
+```ruby
+pod 'OCLogTemplate'
+```
+
+#USAGE
 
 ```objc
 LogDebug(@"Message: %@", formatArg);
