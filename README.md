@@ -1,4 +1,4 @@
-A logging framework for Objective-C projects. Based on Brenwill workshop's Flexible iOS Logging Framework: http://brenwill.com/2010/flexible-ios-logging/ 
+A super-lightweight logging framework for Objective-C projects. Based on Brenwill workshop's Flexible iOS Logging Framework: http://brenwill.com/2010/flexible-ios-logging/ 
 
 #FEATURES
 
@@ -25,8 +25,11 @@ LogDebug(@"Message: %@", formatArg);
 
 #FULLY FLEDGED LOGGING TOOLS
 
-* NSLogger
-* CoocaLumberjack
+* <a href="https://github.com/CocoaLumberjack/CocoaLumberjack">CoocaLumberjack</a>
+* <a href="https://github.com/fpillet/NSLogger">NSLogger</a>
+
+But no doubt you've heard of those ;) 
+
 
 
 
