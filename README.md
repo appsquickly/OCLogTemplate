@@ -9,7 +9,7 @@ A super-lightweight logging framework for Objective-C projects. Based on Brenwil
 
 #INSTALLING
 
-Just include OCLogTemplate.h. 
+Just include `OCLogTemplate.h` in your project. 
 
 Can be installed via CocoaPods too, for use as a transitive dependency in libraries, etc. 
 
