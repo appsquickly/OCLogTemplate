@@ -1,4 +1,4 @@
-A super-lightweight logging framework for Objective-C projects. Based on Brenwill workshop's Flexible iOS Logging Framework: http://brenwill.com/2010/flexible-ios-logging/ 
+A super-lightweight logging header for Objective-C projects. Based on Brenwill workshop's Flexible iOS Logging: http://brenwill.com/2010/flexible-ios-logging/ 
 
 #FEATURES
 
